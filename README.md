@@ -1,3 +1,3 @@
 # Responsive Website Templates
-vannila code,
+Vannila code only,
 Bootstrap (Temporary)
